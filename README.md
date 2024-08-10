@@ -44,7 +44,7 @@ The Automated MAC Address Changer is a Python-based utility designed to enhance 
 4. **Error Handling**: The utility checks for issues like invalid interface names, incorrectly formatted MAC addresses, and command execution failures, providing clear error messages.
 
 ## Limitations
-- Designed for Linux-based systems; may not be compatible with Windows or macOS.
+- Designed for Linux-based systems; may not be compatible with Windows.
 - Requires root privileges to modify MAC addresses.
 
 ## Future Work
